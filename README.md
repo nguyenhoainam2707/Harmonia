@@ -1,2 +1,2 @@
 # Harmonia
-Developmentò two-wheeled self-balancing robot
+Development of a two-wheeled self-balancing robot
